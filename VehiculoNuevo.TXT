@@ -1,1 +1,10 @@
-Este vehiculo se encuentra en venta, con posibles cambios a futuro
+<!-- Este vehiculo se encuentra en venta, con posibles cambios a futuro -->
+
+<strong> Vehiculo en Venta: </strong> BMW Serie 3
+<strong>Marca:</strong> BMW
+<strong>Modelo:</strong> Cupe Serie 3
+<strong>Año:</strong> 2026
+<strong>Kilometraje:</strong> 0.0 K/M
+<strong>Color:</strong> Negro
+<strong>Precio:</strong> 75.500.000,00
+

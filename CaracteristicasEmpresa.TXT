@@ -1,2 +1,8 @@
-Estas caracteristicas son las principales de la empresa, con posibles cambios futuros
+<!-- Estas caracteristicas son las principales de la empresa, con posibles cambios futuros -->
+
+<strong> Caracteristicas de la empresa: </strong>>
+
+Esta empresa es un consecionario de vehiculos tanto nuevos como usados a la venta. Destacamos por un excelete servicios con calidad y garatias en la compra de vehiculos y/o repuestos. Compitiendo directamente con las altas demandas de la industria.
+
+
 
