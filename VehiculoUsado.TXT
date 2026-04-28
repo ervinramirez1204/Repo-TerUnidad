@@ -1,0 +1,11 @@
+<!-- Este vehiculo es usado sin embargo esta en venta, con posibles cambios a futuro -->
+
+<strong> Vehiculo en Venta: </strong> Toyota Corolla
+<strong>Marca:</strong> Toyota
+<strong>Modelo:</strong> Corolla
+<strong>Año:</strong> 2020
+<strong>Kilometraje:</strong> 30.000 K/M
+<strong>Color:</strong> Rojo
+<strong>Precio:</strong> 45.000.000,00
+
+<strong>Descripción:</strong> El Toyota Corolla 2020 es un sedán compacto confiable y eficiente. Con un motor de 1.8 litros, ofrece un rendimiento sólido y una excelente economía de combustible. El interior es cómodo y espacioso, con características modernas como pantalla táctil, conectividad Bluetooth y cámara de reversa. Este vehículo ha sido bien mantenido y se encuentra en excelentes condiciones, listo para su próximo dueño.
